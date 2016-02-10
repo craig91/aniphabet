@@ -5,5 +5,5 @@ Animals by Alphabet
 - Alligator
 
 ## B
-
+- Boar
 ## C
